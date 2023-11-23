@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk menganalisa data pada E-Commerce Public Dataset.
 Struktur Direktori
 /dataset: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv .
 /streamlit: Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
-Proyek_Analisis_Data_Yendri_KP.ipynb: File ini yang digunakan untuk melakukan analisis data.
+Proyek_Analisis_Data_.ipynb: File ini yang digunakan untuk melakukan analisis data.
 
 Instalasi
 
